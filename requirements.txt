@@ -1,0 +1,6 @@
+streamlit
+pandas
+transformers
+altair
+torch --index-url https://download.pytorch.org/whl/cpu
+tf-keras
